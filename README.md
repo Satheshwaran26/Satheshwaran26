@@ -6,10 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Mobile+App+Developer;React+%26+Flutter+Specialist;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%F0%9F%92%BB-FF4B8B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20App%20Developer-%F0%9F%93%B1-4B9FFF?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%E2%9C%A8-FFD93D?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</p>
+
 ---
 
 ## 🚀 About Me  
-
 I’m a **passionate Web & App Developer** who loves creating **seamless, user-friendly, and high-performance** digital experiences.  
 From crafting **responsive UIs** to building **powerful backend systems**, I thrive on turning ideas into reality through **code, creativity, and innovation**.  
 
@@ -28,7 +33,7 @@ From crafting **responsive UIs** to building **powerful backend systems**, I thr
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sathes-hwaran-v" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
@@ -43,7 +48,7 @@ From crafting **responsive UIs** to building **powerful backend systems**, I thr
 ---
 
 ### 💻 Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -66,14 +71,9 @@ From crafting **responsive UIs** to building **powerful backend systems**, I thr
 ---
 
 ## 📊 GitHub Stats & Activity
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satheshwaran26&theme=tokyonight&show_icons=true&count_private=true" height="165px" />
-  
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satheshwaran26&theme=tokyonight&layout=compact" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satheshwaran26&theme=tokyonight&layout=compact" height="165px" />
 </p>
 
 ---

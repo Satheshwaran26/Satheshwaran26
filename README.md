@@ -1,19 +1,29 @@
-<h1 align="center">Hi 👋, I'm Satheshwaran V</h1>
-<h3 align="center">💻 Web & App Developer | Building Seamless Digital Experiences 🚀</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satheshwaran26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=satheshwaran26&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-  </a>
-</p>
+<!-- Dynamic Typing Header -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#FF6B6B;">Satheshwaran V</span>
+</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Mobile+App+Developer;React+%26+Flutter+Specialist;Turning+Ideas+into+Reality" alt="Typing SVG" />
+</h3>
 
 ---
 
-### 🚀 About Me
-- 💬 Ask me about **React.js, JavaScript, Tailwind CSS, and Flutter**  
-- 📫 Reach me at: **satheswaran6677@gmail.com**  
-- 📄 Check out my [LinkedIn Profile](https://www.linkedin.com/in/sathes-hwaran-v)  
+## 🚀 About Me  
+
+I’m a **passionate Web & App Developer** who loves creating **seamless, user-friendly, and high-performance** digital experiences.  
+From crafting **responsive UIs** to building **powerful backend systems**, I thrive on turning ideas into reality through **code, creativity, and innovation**.  
+
+💡 **What I Do Best:**  
+- Build engaging web apps with **React.js, Tailwind CSS, and JavaScript**  
+- Develop cross-platform mobile apps with **Flutter & Dart**  
+- Design optimized backend solutions with **Firebase, Supabase, and MySQL**  
+- Deploy and manage apps on **Vercel, Render, and Google Cloud**  
+
+🎯 **Current Focus:**  
+- Mastering **Next.js & TypeScript** for scalable full-stack apps  
+- Exploring **AI integrations** for web & mobile platforms  
+
+⚡ **Fun Fact:** I believe **good design is invisible** but **great user experience is unforgettable**.  
 
 ---
 
@@ -33,7 +43,7 @@
 ---
 
 ### 💻 Tech Stack
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -55,31 +65,34 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satheshwaran26&theme=radical&hide_border=false&show_icons=true" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satheshwaran26&theme=radical&hide_border=false" height="165px" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satheshwaran26&theme=radical&hide_border=false&layout=compact" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satheshwaran26&theme=tokyonight&show_icons=true&count_private=true" height="165px" />
+  
 </p>
 
----
-
-### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satheshwaran26&theme=tokyonight&layout=compact" height="150px" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satheshwaran26&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=satheshwaran26&theme=dracula&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
+## 📈 Profile Summary
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=satheshwaran26&icon=0&color=0" alt="Visit Count" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satheshwaran26&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satheshwaran26&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
